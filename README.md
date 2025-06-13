@@ -23,7 +23,4 @@ A simple and effective Java console application designed for students to track i
 - Object-Oriented Programming (OOP)
 - Comparator for sorting
 
----
-
-## 📸 Sample Console Output
 
