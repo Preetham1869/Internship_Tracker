@@ -1,21 +1,21 @@
-# 💼 Internship Application Tracker - Java Console App
+#  Internship Application Tracker - Java Console App
 
 A simple and effective Java console application designed for students to track internship and job applications easily. This project helps manage application details using core Java and data structures.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✅ Add new internship/job applications
-- 📝 Store company name, role, status, and date applied
-- 🔁 Update application status (Applied, Interview, Selected, Rejected)
-- 🔍 Filter applications by current status
-- 📄 View all applications sorted by date
-- ❌ Delete applications by company name
+-  Add new internship/job applications
+-  Store company name, role, status, and date applied
+-  Update application status (Applied, Interview, Selected, Rejected)
+-  Filter applications by current status
+-  View all applications sorted by date
+-  Delete applications by company name
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - Java
 - ArrayList & HashMap (DSA)
