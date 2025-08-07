@@ -8,7 +8,7 @@ public class InternshipApp {
         while (true) {
             System.out.println("\n1. Add  2. View All  3. Filter  4. Update Status  5. Delete  6. Exit");
             int choice = sc.nextInt();
-            sc.nextLine();
+            sc.nextLine()
 
             switch (choice) {
                 case 1 -> addApplication();
@@ -73,3 +73,4 @@ public class InternshipApp {
         System.out.println("Deleted if existed.");
     }
 }
+
