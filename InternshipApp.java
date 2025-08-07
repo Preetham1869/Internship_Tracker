@@ -2,7 +2,7 @@ import java.util.*;
 
 public class InternshipApp {
     static ArrayList<Application> apps = new ArrayList<>();
-    static Scanner sc = new Scanner(System.in)
+    static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
         while (true) {
@@ -73,6 +73,7 @@ public class InternshipApp {
         System.out.println("Deleted if existed.");
     }
 }
+
 
 
 
